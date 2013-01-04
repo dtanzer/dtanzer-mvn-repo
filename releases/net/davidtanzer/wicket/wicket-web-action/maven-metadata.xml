@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.davidtanzer.wicket</groupId>
+  <artifactId>wicket-web-action</artifactId>
+  <version>v01dr03</version>
+  <versioning>
+    <versions>
+      <version>v01dr03</version>
+    </versions>
+    <lastUpdated>20130104164206</lastUpdated>
+  </versioning>
+</metadata>
